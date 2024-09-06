@@ -8,8 +8,8 @@
 ## Objective
 
 
-## Task 1 Data analysis:
-
+## Task 1 Analyze a Large Dataset of Fraud in Financial Payment Services:
+Working with data of security critical systems
 
 
 ### Practice :
@@ -20,8 +20,8 @@
 
 
 
-## Task 2 Incident response: 
-
+## Task 2 Learn About Application Security Fundamentals and Put it to Use on Your Own Website:
+Gain awareness of what needs to be secured
 
 ### Practice:
 
@@ -29,7 +29,7 @@
 
 <a href="https://github.com/Matteobarcelona/Commonwealth-Bank/blob/main/incident%20analysis%20and%20response.pdf" target="_blank">Incident analysis and response behaviour.</a>
 
-## Task 3 Security awareness:
+## Task 3 Spam or Ham? Build an Email Classifier:
 
 
 
@@ -38,8 +38,8 @@
 
 <a href="https://github.com/Matteobarcelona/Commonwealth-Bank/blob/main/Password%20Security%20Infographic.pdf" target="_blank">Password security tips according to the Australian Cyber Security Centre (ACSC) guidelines.</a>
 
-## Task 4 Penetration testing:
-
+## Task 4 Design and Develop a System to Tighten Access to Sensitive Information:
+Understanding real world security systems
 
 ### Practice: 
 
